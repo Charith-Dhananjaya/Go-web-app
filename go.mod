@@ -1,3 +1,4 @@
-module github.com/Charith-Dhananjaya/go-web-app
+module github.com/Charith-Dhananjaya/Go-web-app
 
-go 1.22.5
+
+go 1.25.1
